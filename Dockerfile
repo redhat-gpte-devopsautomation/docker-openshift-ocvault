@@ -1,6 +1,6 @@
 FROM registry.access.redhat.com/ubi8/ubi-minimal:latest
 
-ENV VAULT_VERSION="1.8.3"
+ENV VAULT_VERSION="1.8.4"
 
 LABEL name="Hashicorp Vault Client" \
       build-date="2021-10-13" \
